@@ -2,7 +2,7 @@
 
 Code for building, encoding and evaluating **SurgCBVR-CAT**, a benchmark for content-based retrieval of cataract surgery video clips. Given a clip, the task is to retrieve clips of the same **surgical phase from other patients' operations** (surgical phase video retrieval, SPVR).
 
-- **Dataset (clips + annotations):** TODO: Hugging Face URL
+- **Released Dataset (clips + annotations):** https://huggingface.co/datasets/mohaEs/SurgCBVR-CAT 
 - **Paper:** TODO: Data in Brief citation and DOI
 
 > **Only want to evaluate your own method?** Download the dataset from Hugging Face, compute one feature vector per clip, and go to [step 3](#3-evaluation). Steps 1 and 2 regenerate the clips and the baseline features.
